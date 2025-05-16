@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Luka Groff
-- **Author Contact**: https://www.linkedin.com/in/LukaGroff/
+- **Author Contact**: https://linkedin.com/in/luka-groff-5a95681a0
 - **Date**: May 16, 2025
 
 ## Validated By:
